@@ -36,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HimagiriNandan/LeetHub/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HimagiriNandan/LeetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2047-find-a-peak-element-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/2047-find-a-peak-element-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HimagiriNandan/LeetHub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/2047-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/2047-find-a-peak-element-ii) |
 ## Greedy
 |  |
 | ------- |
