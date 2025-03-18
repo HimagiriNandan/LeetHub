@@ -65,10 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/HimagiriNandan/LeetHub/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/HimagiriNandan/LeetHub/tree/master/0044-wildcard-matching) |
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/HimagiriNandan/LeetHub/tree/master/0024-swap-nodes-in-pairs) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/HimagiriNandan/LeetHub/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
 |  |
