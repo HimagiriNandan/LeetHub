@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/HimagiriNandan/LeetHub/tree/master/0368-largest-divisible-subset) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HimagiriNandan/LeetHub/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HimagiriNandan/LeetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1129-longest-string-chain](https://github.com/HimagiriNandan/LeetHub/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HimagiriNandan/LeetHub/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2047-find-a-peak-element-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/2047-find-a-peak-element-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HimagiriNandan/LeetHub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -207,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
