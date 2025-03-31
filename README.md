@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HimagiriNandan/LeetHub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HimagiriNandan/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/HimagiriNandan/LeetHub/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HimagiriNandan/LeetHub/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/HimagiriNandan/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/HimagiriNandan/LeetHub/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1129-longest-string-chain](https://github.com/HimagiriNandan/LeetHub/tree/master/1129-longest-string-chain) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HimagiriNandan/LeetHub/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
