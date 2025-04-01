@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/HimagiriNandan/LeetHub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/HimagiriNandan/LeetHub/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HimagiriNandan/LeetHub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/HimagiriNandan/LeetHub/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HimagiriNandan/LeetHub/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0148-sort-list](https://github.com/HimagiriNandan/LeetHub/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HimagiriNandan/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/HimagiriNandan/LeetHub/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HimagiriNandan/LeetHub/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HimagiriNandan/LeetHub/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/HimagiriNandan/LeetHub/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HimagiriNandan/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/HimagiriNandan/LeetHub/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1129-longest-string-chain](https://github.com/HimagiriNandan/LeetHub/tree/master/1129-longest-string-chain) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/HimagiriNandan/LeetHub/tree/master/0148-sort-list) |
 | [0368-largest-divisible-subset](https://github.com/HimagiriNandan/LeetHub/tree/master/0368-largest-divisible-subset) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/HimagiriNandan/LeetHub/tree/master/1129-longest-string-chain) |
@@ -235,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/HimagiriNandan/LeetHub/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HimagiriNandan/LeetHub/tree/master/0232-implement-queue-using-stacks) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/HimagiriNandan/LeetHub/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
