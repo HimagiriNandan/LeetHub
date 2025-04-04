@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/HimagiriNandan/LeetHub/tree/master/0368-largest-divisible-subset) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HimagiriNandan/LeetHub/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HimagiriNandan/LeetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1046-max-consecutive-ones-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1129-longest-string-chain](https://github.com/HimagiriNandan/LeetHub/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HimagiriNandan/LeetHub/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/HimagiriNandan/LeetHub/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/HimagiriNandan/LeetHub/tree/master/0300-longest-increasing-subsequence) |
+| [1046-max-consecutive-ones-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
 | [2047-find-a-peak-element-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/2047-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
@@ -252,4 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/HimagiriNandan/LeetHub/tree/master/0148-sort-list) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
