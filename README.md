@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/HimagiriNandan/LeetHub/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/HimagiriNandan/LeetHub/tree/master/0368-largest-divisible-subset) |
 | [0496-next-greater-element-i](https://github.com/HimagiriNandan/LeetHub/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0503-next-greater-element-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HimagiriNandan/LeetHub/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HimagiriNandan/LeetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1046-max-consecutive-ones-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/HimagiriNandan/LeetHub/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HimagiriNandan/LeetHub/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/HimagiriNandan/LeetHub/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Bit Manipulation
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/HimagiriNandan/LeetHub/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Queue
 |  |
