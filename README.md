@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/HimagiriNandan/LeetHub/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/HimagiriNandan/LeetHub/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/HimagiriNandan/LeetHub/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/HimagiriNandan/LeetHub/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/HimagiriNandan/LeetHub/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/HimagiriNandan/LeetHub/tree/master/0583-delete-operation-for-two-strings) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/HimagiriNandan/LeetHub/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/HimagiriNandan/LeetHub/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/HimagiriNandan/LeetHub/tree/master/0368-largest-divisible-subset) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/HimagiriNandan/LeetHub/tree/master/1129-longest-string-chain) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HimagiriNandan/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/HimagiriNandan/LeetHub/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/HimagiriNandan/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
