@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/HimagiriNandan/LeetHub/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/HimagiriNandan/LeetHub/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/HimagiriNandan/LeetHub/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/HimagiriNandan/LeetHub/tree/master/0115-distinct-subsequences) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/HimagiriNandan/LeetHub/tree/master/0013-roman-to-integer) |
 | [0368-largest-divisible-subset](https://github.com/HimagiriNandan/LeetHub/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HimagiriNandan/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/HimagiriNandan/LeetHub/tree/master/2032-largest-odd-number-in-string) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/HimagiriNandan/LeetHub/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HimagiriNandan/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
