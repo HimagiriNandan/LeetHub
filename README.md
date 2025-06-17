@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
