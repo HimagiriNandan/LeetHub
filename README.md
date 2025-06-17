@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HimagiriNandan/LeetHub/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HimagiriNandan/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2047-find-a-peak-element-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/2047-find-a-peak-element-ii) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/HimagiriNandan/LeetHub/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2262-solving-questions-with-brainpower](https://github.com/HimagiriNandan/LeetHub/tree/master/2262-solving-questions-with-brainpower) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HimagiriNandan/LeetHub/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
