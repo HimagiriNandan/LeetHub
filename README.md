@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/HimagiriNandan/LeetHub/tree/master/0861-flipping-an-image) |
 | [1839-decode-xored-array](https://github.com/HimagiriNandan/LeetHub/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HimagiriNandan/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/HimagiriNandan/LeetHub/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Design
 |  |
 | ------- |
