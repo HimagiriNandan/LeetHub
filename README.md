@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HimagiriNandan/LeetHub/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HimagiriNandan/LeetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0794-swim-in-rising-water](https://github.com/HimagiriNandan/LeetHub/tree/master/0794-swim-in-rising-water) |
+| [0861-flipping-an-image](https://github.com/HimagiriNandan/LeetHub/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/HimagiriNandan/LeetHub/tree/master/0890-lemonade-change) |
 | [1046-max-consecutive-ones-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0794-swim-in-rising-water](https://github.com/HimagiriNandan/LeetHub/tree/master/0794-swim-in-rising-water) |
+| [0861-flipping-an-image](https://github.com/HimagiriNandan/LeetHub/tree/master/0861-flipping-an-image) |
 | [1753-path-with-minimum-effort](https://github.com/HimagiriNandan/LeetHub/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/2047-find-a-peak-element-ii) |
 ## Greedy
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/HimagiriNandan/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/HimagiriNandan/LeetHub/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0647-palindromic-substrings](https://github.com/HimagiriNandan/LeetHub/tree/master/0647-palindromic-substrings) |
+| [0861-flipping-an-image](https://github.com/HimagiriNandan/LeetHub/tree/master/0861-flipping-an-image) |
 | [1129-longest-string-chain](https://github.com/HimagiriNandan/LeetHub/tree/master/1129-longest-string-chain) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HimagiriNandan/LeetHub/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/HimagiriNandan/LeetHub/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/HimagiriNandan/LeetHub/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/HimagiriNandan/LeetHub/tree/master/0476-number-complement) |
+| [0861-flipping-an-image](https://github.com/HimagiriNandan/LeetHub/tree/master/0861-flipping-an-image) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HimagiriNandan/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Design
 |  |
@@ -376,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/HimagiriNandan/LeetHub/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/HimagiriNandan/LeetHub/tree/master/1753-path-with-minimum-effort) |
+## Simulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/HimagiriNandan/LeetHub/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
