@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0137-single-number-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0137-single-number-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HimagiriNandan/LeetHub/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/HimagiriNandan/LeetHub/tree/master/0300-longest-increasing-subsequence) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/HimagiriNandan/LeetHub/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/HimagiriNandan/LeetHub/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/HimagiriNandan/LeetHub/tree/master/0476-number-complement) |
