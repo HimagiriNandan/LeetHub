@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/HimagiriNandan/LeetHub/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/HimagiriNandan/LeetHub/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/HimagiriNandan/LeetHub/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/HimagiriNandan/LeetHub/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HimagiriNandan/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/HimagiriNandan/LeetHub/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/HimagiriNandan/LeetHub/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/HimagiriNandan/LeetHub/tree/master/0222-count-complete-tree-nodes) |
