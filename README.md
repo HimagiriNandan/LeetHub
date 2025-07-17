@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HimagiriNandan/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2047-find-a-peak-element-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/2047-find-a-peak-element-ii) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/HimagiriNandan/LeetHub/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2227-sum-of-subarray-ranges](https://github.com/HimagiriNandan/LeetHub/tree/master/2227-sum-of-subarray-ranges) |
 | [2262-solving-questions-with-brainpower](https://github.com/HimagiriNandan/LeetHub/tree/master/2262-solving-questions-with-brainpower) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/HimagiriNandan/LeetHub/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HimagiriNandan/LeetHub/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/HimagiriNandan/LeetHub/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HimagiriNandan/LeetHub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2227-sum-of-subarray-ranges](https://github.com/HimagiriNandan/LeetHub/tree/master/2227-sum-of-subarray-ranges) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/HimagiriNandan/LeetHub/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2227-sum-of-subarray-ranges](https://github.com/HimagiriNandan/LeetHub/tree/master/2227-sum-of-subarray-ranges) |
 ## Queue
 |  |
 | ------- |
