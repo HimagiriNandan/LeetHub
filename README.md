@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HimagiriNandan/LeetHub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/HimagiriNandan/LeetHub/tree/master/2032-largest-odd-number-in-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/HimagiriNandan/LeetHub/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HimagiriNandan/LeetHub/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HimagiriNandan/LeetHub/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/HimagiriNandan/LeetHub/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/HimagiriNandan/LeetHub/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HimagiriNandan/LeetHub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Binary Indexed Tree
