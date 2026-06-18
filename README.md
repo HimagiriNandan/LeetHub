@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/HimagiriNandan/LeetHub/tree/master/2032-largest-odd-number-in-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/HimagiriNandan/LeetHub/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/HimagiriNandan/LeetHub/tree/master/3612-process-string-with-special-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/HimagiriNandan/LeetHub/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/HimagiriNandan/LeetHub/tree/master/0861-flipping-an-image) |
+| [3612-process-string-with-special-operations-i](https://github.com/HimagiriNandan/LeetHub/tree/master/3612-process-string-with-special-operations-i) |
 ## Graph
 |  |
 | ------- |
