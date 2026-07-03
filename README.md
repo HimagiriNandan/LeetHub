@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HimagiriNandan/LeetHub/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HimagiriNandan/LeetHub/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2262-solving-questions-with-brainpower](https://github.com/HimagiriNandan/LeetHub/tree/master/2262-solving-questions-with-brainpower) |
+| [3620-network-recovery-pathways](https://github.com/HimagiriNandan/LeetHub/tree/master/3620-network-recovery-pathways) |
 ## Array
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/HimagiriNandan/LeetHub/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HimagiriNandan/LeetHub/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HimagiriNandan/LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3620-network-recovery-pathways](https://github.com/HimagiriNandan/LeetHub/tree/master/3620-network-recovery-pathways) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/HimagiriNandan/LeetHub/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HimagiriNandan/LeetHub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/HimagiriNandan/LeetHub/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/HimagiriNandan/LeetHub/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/2047-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HimagiriNandan/LeetHub/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/HimagiriNandan/LeetHub/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/HimagiriNandan/LeetHub/tree/master/1753-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HimagiriNandan/LeetHub/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HimagiriNandan/LeetHub/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/HimagiriNandan/LeetHub/tree/master/3620-network-recovery-pathways) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -488,8 +492,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HimagiriNandan/LeetHub/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/HimagiriNandan/LeetHub/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HimagiriNandan/LeetHub/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/HimagiriNandan/LeetHub/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/HimagiriNandan/LeetHub/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
