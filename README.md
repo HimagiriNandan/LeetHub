@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/HimagiriNandan/LeetHub/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/HimagiriNandan/LeetHub/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/HimagiriNandan/LeetHub/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/HimagiriNandan/LeetHub/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/HimagiriNandan/LeetHub/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/HimagiriNandan/LeetHub/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/HimagiriNandan/LeetHub/tree/master/0029-divide-two-integers) |
+| [0096-unique-binary-search-trees](https://github.com/HimagiriNandan/LeetHub/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/HimagiriNandan/LeetHub/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/HimagiriNandan/LeetHub/tree/master/0368-largest-divisible-subset) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/HimagiriNandan/LeetHub/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/HimagiriNandan/LeetHub/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/HimagiriNandan/LeetHub/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -416,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/HimagiriNandan/LeetHub/tree/master/0096-unique-binary-search-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HimagiriNandan/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
