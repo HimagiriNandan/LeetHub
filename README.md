@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/HimagiriNandan/LeetHub/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/HimagiriNandan/LeetHub/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/HimagiriNandan/LeetHub/tree/master/3612-process-string-with-special-operations-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HimagiriNandan/LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HimagiriNandan/LeetHub/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HimagiriNandan/LeetHub/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HimagiriNandan/LeetHub/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/HimagiriNandan/LeetHub/tree/master/3620-network-recovery-pathways) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/2047-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HimagiriNandan/LeetHub/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HimagiriNandan/LeetHub/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HimagiriNandan/LeetHub/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/HimagiriNandan/LeetHub/tree/master/3620-network-recovery-pathways) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/HimagiriNandan/LeetHub/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HimagiriNandan/LeetHub/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Tree
 |  |
 | ------- |
