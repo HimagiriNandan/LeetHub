@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HimagiriNandan/LeetHub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2032-largest-odd-number-in-string](https://github.com/HimagiriNandan/LeetHub/tree/master/2032-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HimagiriNandan/LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/HimagiriNandan/LeetHub/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/HimagiriNandan/LeetHub/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HimagiriNandan/LeetHub/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2032-largest-odd-number-in-string](https://github.com/HimagiriNandan/LeetHub/tree/master/2032-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HimagiriNandan/LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/HimagiriNandan/LeetHub/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Recursion
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HimagiriNandan/LeetHub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HimagiriNandan/LeetHub/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HimagiriNandan/LeetHub/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HimagiriNandan/LeetHub/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/HimagiriNandan/LeetHub/tree/master/3536-maximum-product-of-two-digits) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/HimagiriNandan/LeetHub/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimagiriNandan/LeetHub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HimagiriNandan/LeetHub/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HimagiriNandan/LeetHub/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/HimagiriNandan/LeetHub/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -540,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/HimagiriNandan/LeetHub/tree/master/0451-sort-characters-by-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HimagiriNandan/LeetHub/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Trie
