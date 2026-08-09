@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/HimagiriNandan/LeetHub/tree/master/0877-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/HimagiriNandan/LeetHub/tree/master/0943-sum-of-subarray-minimums) |
 | [1129-longest-string-chain](https://github.com/HimagiriNandan/LeetHub/tree/master/1129-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/1140-stone-game-ii) |
 | [1170-shortest-common-supersequence](https://github.com/HimagiriNandan/LeetHub/tree/master/1170-shortest-common-supersequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/HimagiriNandan/LeetHub/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/1406-stone-game-iii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1129-longest-string-chain](https://github.com/HimagiriNandan/LeetHub/tree/master/1129-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/HimagiriNandan/LeetHub/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/HimagiriNandan/LeetHub/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/HimagiriNandan/LeetHub/tree/master/1331-rank-transform-of-an-array) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/HimagiriNandan/LeetHub/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HimagiriNandan/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/HimagiriNandan/LeetHub/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/HimagiriNandan/LeetHub/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HimagiriNandan/LeetHub/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/HimagiriNandan/LeetHub/tree/master/0304-range-sum-query-2d-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HimagiriNandan/LeetHub/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
@@ -630,13 +634,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/HimagiriNandan/LeetHub/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/HimagiriNandan/LeetHub/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
