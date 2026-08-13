@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HimagiriNandan/LeetHub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HimagiriNandan/LeetHub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2032-largest-odd-number-in-string](https://github.com/HimagiriNandan/LeetHub/tree/master/2032-largest-odd-number-in-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/HimagiriNandan/LeetHub/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HimagiriNandan/LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/HimagiriNandan/LeetHub/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HimagiriNandan/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2047-find-a-peak-element-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/2047-find-a-peak-element-ii) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/HimagiriNandan/LeetHub/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/HimagiriNandan/LeetHub/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2227-sum-of-subarray-ranges](https://github.com/HimagiriNandan/LeetHub/tree/master/2227-sum-of-subarray-ranges) |
 | [2262-solving-questions-with-brainpower](https://github.com/HimagiriNandan/LeetHub/tree/master/2262-solving-questions-with-brainpower) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/HimagiriNandan/LeetHub/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/HimagiriNandan/LeetHub/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HimagiriNandan/LeetHub/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/HimagiriNandan/LeetHub/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Tree
 |  |
@@ -665,4 +668,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/HimagiriNandan/LeetHub/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/HimagiriNandan/LeetHub/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
