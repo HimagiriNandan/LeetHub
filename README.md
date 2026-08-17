@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/1406-stone-game-iii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HimagiriNandan/LeetHub/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1510-stone-game-iv](https://github.com/HimagiriNandan/LeetHub/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/HimagiriNandan/LeetHub/tree/master/1563-stone-game-v) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HimagiriNandan/LeetHub/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2262-solving-questions-with-brainpower](https://github.com/HimagiriNandan/LeetHub/tree/master/2262-solving-questions-with-brainpower) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HimagiriNandan/LeetHub/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/HimagiriNandan/LeetHub/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HimagiriNandan/LeetHub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/HimagiriNandan/LeetHub/tree/master/1563-stone-game-v) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HimagiriNandan/LeetHub/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/HimagiriNandan/LeetHub/tree/master/1753-path-with-minimum-effort) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/HimagiriNandan/LeetHub/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/HimagiriNandan/LeetHub/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/HimagiriNandan/LeetHub/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/HimagiriNandan/LeetHub/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HimagiriNandan/LeetHub/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HimagiriNandan/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2029-stone-game-ix](https://github.com/HimagiriNandan/LeetHub/tree/master/2029-stone-game-ix) |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/HimagiriNandan/LeetHub/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/HimagiriNandan/LeetHub/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/HimagiriNandan/LeetHub/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
