@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/HimagiriNandan/LeetHub/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/HimagiriNandan/LeetHub/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/HimagiriNandan/LeetHub/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/HimagiriNandan/LeetHub/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HimagiriNandan/LeetHub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/HimagiriNandan/LeetHub/tree/master/1563-stone-game-v) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/HimagiriNandan/LeetHub/tree/master/0402-remove-k-digits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HimagiriNandan/LeetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/HimagiriNandan/LeetHub/tree/master/0890-lemonade-change) |
+| [1386-cinema-seat-allocation](https://github.com/HimagiriNandan/LeetHub/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HimagiriNandan/LeetHub/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/HimagiriNandan/LeetHub/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/HimagiriNandan/LeetHub/tree/master/2032-largest-odd-number-in-string) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HimagiriNandan/LeetHub/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1331-rank-transform-of-an-array](https://github.com/HimagiriNandan/LeetHub/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimagiriNandan/LeetHub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/HimagiriNandan/LeetHub/tree/master/1386-cinema-seat-allocation) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HimagiriNandan/LeetHub/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HimagiriNandan/LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HimagiriNandan/LeetHub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HimagiriNandan/LeetHub/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/HimagiriNandan/LeetHub/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/HimagiriNandan/LeetHub/tree/master/0861-flipping-an-image) |
+| [1386-cinema-seat-allocation](https://github.com/HimagiriNandan/LeetHub/tree/master/1386-cinema-seat-allocation) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/HimagiriNandan/LeetHub/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1839-decode-xored-array](https://github.com/HimagiriNandan/LeetHub/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HimagiriNandan/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
