@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimagiriNandan/LeetHub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HimagiriNandan/LeetHub/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HimagiriNandan/LeetHub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1927-sum-game](https://github.com/HimagiriNandan/LeetHub/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HimagiriNandan/LeetHub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2032-largest-odd-number-in-string](https://github.com/HimagiriNandan/LeetHub/tree/master/2032-largest-odd-number-in-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/HimagiriNandan/LeetHub/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/HimagiriNandan/LeetHub/tree/master/0890-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/HimagiriNandan/LeetHub/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HimagiriNandan/LeetHub/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/HimagiriNandan/LeetHub/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/HimagiriNandan/LeetHub/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/HimagiriNandan/LeetHub/tree/master/2032-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HimagiriNandan/LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/HimagiriNandan/LeetHub/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/HimagiriNandan/LeetHub/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/HimagiriNandan/LeetHub/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HimagiriNandan/LeetHub/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HimagiriNandan/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2029-stone-game-ix](https://github.com/HimagiriNandan/LeetHub/tree/master/2029-stone-game-ix) |
@@ -675,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/HimagiriNandan/LeetHub/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/HimagiriNandan/LeetHub/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/HimagiriNandan/LeetHub/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/HimagiriNandan/LeetHub/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
