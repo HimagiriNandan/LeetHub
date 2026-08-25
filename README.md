@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/HimagiriNandan/LeetHub/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HimagiriNandan/LeetHub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HimagiriNandan/LeetHub/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/HimagiriNandan/LeetHub/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/HimagiriNandan/LeetHub/tree/master/3731-find-missing-elements) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/HimagiriNandan/LeetHub/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HimagiriNandan/LeetHub/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HimagiriNandan/LeetHub/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/HimagiriNandan/LeetHub/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HimagiriNandan/LeetHub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/HimagiriNandan/LeetHub/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/HimagiriNandan/LeetHub/tree/master/3731-find-missing-elements) |
 ## Binary Indexed Tree
 |  |
