@@ -1,19 +1,29 @@
 class Solution {
 public:
-    int helper(string& s, string& t, vector<vector<int>>& dp, int i, int j){
-        if(j < 0) return 1;
-        if(i < 0) return 0;
-        if(dp[i][j] != -1) return dp[i][j];
-        if(s[i] == t[j]){
-            return dp[i][j] = (helper(s, t, dp, i - 1, j - 1) + helper(s, t, dp, i - 1, j));
-        }else{
-            return dp[i][j] = helper(s, t, dp, i - 1, j);
+
+    int solve(string &s, string &t, int l1, int l2, vector<vector<int>>& dp) {
+        if(l2 < 0) {
+            return 1;
         }
+
+        if(l1 < 0) {
+            return 0;
+        }
+
+        if(dp[l1][l2] != -1) {
+            return dp[l1][l2];
+        }
+        int not_pick = solve(s, t, l1 - 1, l2, dp);
+        int pick = 0;
+
+        if(s[l1] == t[l2]) {
+            pick = solve(s, t, l1 - 1, l2 - 1, dp);
+        }
+        return dp[l1][l2] = not_pick + pick;
     }
+
     int numDistinct(string s, string t) {
-        int n = s.length();
-        int m = t.length();
-        vector<vector<int>> dp(n, vector<int>(m, -1));
-        return helper(s, t, dp, n - 1, m - 1);
+        vector<vector<int>> dp(s.length() + 1, vector<int>(t.length(), -1));
+        return solve(s, t, s.length() - 1, t.length() - 1, dp);
     }
 };
