@@ -1,29 +1,24 @@
 class Solution {
 public:
 
-    int solve(string &s, string &t, int l1, int l2, vector<vector<int>>& dp) {
-        if(l2 < 0) {
-            return 1;
-        }
-
-        if(l1 < 0) {
-            return 0;
-        }
-
-        if(dp[l1][l2] != -1) {
-            return dp[l1][l2];
-        }
-        int not_pick = solve(s, t, l1 - 1, l2, dp);
-        int pick = 0;
-
-        if(s[l1] == t[l2]) {
-            pick = solve(s, t, l1 - 1, l2 - 1, dp);
-        }
-        return dp[l1][l2] = not_pick + pick;
-    }
-
     int numDistinct(string s, string t) {
-        vector<vector<int>> dp(s.length() + 1, vector<int>(t.length(), -1));
-        return solve(s, t, s.length() - 1, t.length() - 1, dp);
+        vector<vector<long long>> dp(s.length() + 1, vector<long long>(t.length() + 1, 0));
+        int m = s.length();
+        int n = t.length();
+        for(int i = 0; i <= m; i++) {
+            dp[i][0] = 1;
+        }
+        for(int i = 1; i <= m; i++) {
+            for(int j = 1; j <= n; j++) {
+                int ans = 0;
+                if(s[i - 1] == t[j - 1]){
+                    ans = dp[i - 1][j - 1] + dp[i - 1][j];
+                } else {
+                    ans = dp[i - 1][j]; 
+                }
+                dp[i][j] = ans;
+            }
+        }
+        return dp[m][n];
     }
 };
