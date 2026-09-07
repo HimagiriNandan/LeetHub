@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/HimagiriNandan/LeetHub/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/HimagiriNandan/LeetHub/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/HimagiriNandan/LeetHub/tree/master/0812-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0940-distinct-subsequences-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/HimagiriNandan/LeetHub/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/HimagiriNandan/LeetHub/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/HimagiriNandan/LeetHub/tree/master/1170-shortest-common-supersequence) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HimagiriNandan/LeetHub/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HimagiriNandan/LeetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/HimagiriNandan/LeetHub/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0940-distinct-subsequences-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/HimagiriNandan/LeetHub/tree/master/0943-sum-of-subarray-minimums) |
 | [1129-longest-string-chain](https://github.com/HimagiriNandan/LeetHub/tree/master/1129-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/1140-stone-game-ii) |
