@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/HimagiriNandan/LeetHub/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HimagiriNandan/LeetHub/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/HimagiriNandan/LeetHub/tree/master/1450-delete-leaves-with-a-given-value) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HimagiriNandan/LeetHub/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HimagiriNandan/LeetHub/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/HimagiriNandan/LeetHub/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1753-path-with-minimum-effort](https://github.com/HimagiriNandan/LeetHub/tree/master/1753-path-with-minimum-effort) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HimagiriNandan/LeetHub/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HimagiriNandan/LeetHub/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/HimagiriNandan/LeetHub/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/HimagiriNandan/LeetHub/tree/master/3310-remove-methods-from-project) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/HimagiriNandan/LeetHub/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HimagiriNandan/LeetHub/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/HimagiriNandan/LeetHub/tree/master/1450-delete-leaves-with-a-given-value) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HimagiriNandan/LeetHub/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
 |  |
 | ------- |
