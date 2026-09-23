@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HimagiriNandan/LeetHub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/HimagiriNandan/LeetHub/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HimagiriNandan/LeetHub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/HimagiriNandan/LeetHub/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/HimagiriNandan/LeetHub/tree/master/1753-path-with-minimum-effort) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/HimagiriNandan/LeetHub/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/HimagiriNandan/LeetHub/tree/master/0300-longest-increasing-subsequence) |
 | [0794-swim-in-rising-water](https://github.com/HimagiriNandan/LeetHub/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HimagiriNandan/LeetHub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1753-path-with-minimum-effort](https://github.com/HimagiriNandan/LeetHub/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/2047-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HimagiriNandan/LeetHub/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/HimagiriNandan/LeetHub/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimagiriNandan/LeetHub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/HimagiriNandan/LeetHub/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HimagiriNandan/LeetHub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HimagiriNandan/LeetHub/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HimagiriNandan/LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HimagiriNandan/LeetHub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/HimagiriNandan/LeetHub/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimagiriNandan/LeetHub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HimagiriNandan/LeetHub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HimagiriNandan/LeetHub/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/HimagiriNandan/LeetHub/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HimagiriNandan/LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -602,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/HimagiriNandan/LeetHub/tree/master/0304-range-sum-query-2d-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/1140-stone-game-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HimagiriNandan/LeetHub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/HimagiriNandan/LeetHub/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HimagiriNandan/LeetHub/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
