@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HimagiriNandan/LeetHub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/HimagiriNandan/LeetHub/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/HimagiriNandan/LeetHub/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/HimagiriNandan/LeetHub/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HimagiriNandan/LeetHub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HimagiriNandan/LeetHub/tree/master/0085-maximal-rectangle) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/HimagiriNandan/LeetHub/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/HimagiriNandan/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HimagiriNandan/LeetHub/tree/master/0304-range-sum-query-2d-immutable) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/HimagiriNandan/LeetHub/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/HimagiriNandan/LeetHub/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/HimagiriNandan/LeetHub/tree/master/0861-flipping-an-image) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HimagiriNandan/LeetHub/tree/master/3069-distribute-elements-into-two-arrays-i) |
