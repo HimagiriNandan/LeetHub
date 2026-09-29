@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/HimagiriNandan/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/HimagiriNandan/LeetHub/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/HimagiriNandan/LeetHub/tree/master/0115-distinct-subsequences) |
+| [0119-pascals-triangle-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HimagiriNandan/LeetHub/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/HimagiriNandan/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0119-pascals-triangle-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HimagiriNandan/LeetHub/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0137-single-number-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0137-single-number-ii) |
