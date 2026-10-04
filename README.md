@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/HimagiriNandan/LeetHub/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/HimagiriNandan/LeetHub/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/HimagiriNandan/LeetHub/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/HimagiriNandan/LeetHub/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/HimagiriNandan/LeetHub/tree/master/0812-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0940-distinct-subsequences-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/HimagiriNandan/LeetHub/tree/master/1078-remove-outermost-parentheses) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/HimagiriNandan/LeetHub/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/HimagiriNandan/LeetHub/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HimagiriNandan/LeetHub/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/HimagiriNandan/LeetHub/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HimagiriNandan/LeetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/HimagiriNandan/LeetHub/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0940-distinct-subsequences-ii) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/HimagiriNandan/LeetHub/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/HimagiriNandan/LeetHub/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/HimagiriNandan/LeetHub/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HimagiriNandan/LeetHub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/HimagiriNandan/LeetHub/tree/master/0890-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/HimagiriNandan/LeetHub/tree/master/1386-cinema-seat-allocation) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/HimagiriNandan/LeetHub/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/HimagiriNandan/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HimagiriNandan/LeetHub/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/HimagiriNandan/LeetHub/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/HimagiriNandan/LeetHub/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/HimagiriNandan/LeetHub/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HimagiriNandan/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -786,5 +790,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/HimagiriNandan/LeetHub/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HimagiriNandan/LeetHub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
