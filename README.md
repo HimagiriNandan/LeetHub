@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/HimagiriNandan/LeetHub/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/HimagiriNandan/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/HimagiriNandan/LeetHub/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/HimagiriNandan/LeetHub/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/HimagiriNandan/LeetHub/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HimagiriNandan/LeetHub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HimagiriNandan/LeetHub/tree/master/0085-maximal-rectangle) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HimagiriNandan/LeetHub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/HimagiriNandan/LeetHub/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/HimagiriNandan/LeetHub/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/HimagiriNandan/LeetHub/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/HimagiriNandan/LeetHub/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/HimagiriNandan/LeetHub/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HimagiriNandan/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/HimagiriNandan/LeetHub/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/HimagiriNandan/LeetHub/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/HimagiriNandan/LeetHub/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/HimagiriNandan/LeetHub/tree/master/0368-largest-divisible-subset) |
@@ -792,4 +795,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/HimagiriNandan/LeetHub/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HimagiriNandan/LeetHub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/HimagiriNandan/LeetHub/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/HimagiriNandan/LeetHub/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
